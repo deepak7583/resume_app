@@ -74,7 +74,6 @@ class _ResumeBuilderScreenState extends State<ResumeBuilderScreen> {
                   },
                   child: Icon(
                     Icons.edit,
-                    color: Colors.white,
                   ))
             ],
           ),
